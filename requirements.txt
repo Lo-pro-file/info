@@ -3,7 +3,7 @@ google-auth-httplib2
 google-auth-oauthlib
 requests_toolbelt
 pyrogram==2.0.73
-TgCrypto==1.2.4
+TgCrypto==1.2.5
 telegraph[aio]
 async-timeout
 apscheduler 
